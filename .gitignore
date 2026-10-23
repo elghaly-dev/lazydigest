@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+venv/
+.venv/
+.env
+data/processed/
+data/output_digests/*.md
+!data/output_digests/.gitkeep
